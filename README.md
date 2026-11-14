@@ -83,3 +83,10 @@ There are no 1-1 relationships.
 
 - A booking has one seat. A passenger who needs more seats makes more bookings.
 - stops\_at holds only intermediate stops. Origin and destination are stored in TRIP.
+
+## 9. Pictures
+- Entity Relation Diagram 
+![ERD](ERD%20Phase%201.png)
+
+- Relation Schema Diagram
+![RS](RS%20Phase%201.png)
